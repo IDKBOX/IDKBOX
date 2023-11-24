@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @IDKBOX
 - 👀 I’m interested in coding & motion design
-- 🌱 I’m currently learning The Odin Project!
-- 💞️ I’m looking to collaborate on solving isues for open source projects that are aimed for beginners
-- 📫 How to reach me idkbox.art@gmail.com :)
+- 🌱 I’m currently making a game!
+- 💡 Follow to see what i'm up to!
+- 🔗 www.linktr.ee/idk.box
 
 <!---
 IDKBOX/IDKBOX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
